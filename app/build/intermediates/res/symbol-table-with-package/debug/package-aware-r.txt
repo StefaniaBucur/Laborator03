@@ -701,6 +701,7 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id call_image_button
 id center
 id center_horizontal
 id center_vertical
@@ -730,6 +731,7 @@ id forever
 id gone
 id group_divider
 id groups
+id hangup_image_button
 id home
 id homeAsUp
 id horizontal
